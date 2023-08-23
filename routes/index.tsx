@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>pulse-matrix.com</title>
+        <title>Pulse Matrix</title>
       </Head>
       {/* <div class="px-4 py-8 mx-auto bg-[#1d2334]"> */}
       <div class={cx(LOGO_PALETTE.background, "px-4 py-8 mx-auto")}>
