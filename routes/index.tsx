@@ -28,7 +28,7 @@ export default function Home() {
         </div>
       </div>
       <div
-        class={`bg-[${MAIN_PALETTE.red}] flex w-screen h-screen`}
+        class={`bg-[${MAIN_PALETTE.red}] flex h-screen`}
       />
     </>
   );
