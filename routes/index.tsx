@@ -8,7 +8,6 @@ import {
 import { cx } from "https://esm.sh/@twind/core@1.1.3";
 
 export default function Home() {
-  const count = useSignal(3);
   return (
     <>
       <Head>
